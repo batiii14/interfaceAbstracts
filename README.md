@@ -1,3 +1,3 @@
 # thirdAssignment
 
-Odev master dosyasında.
+Odev master içerisinde
