@@ -1,3 +1,1 @@
-# thirdAssignment
 
-Odev master içerisinde
